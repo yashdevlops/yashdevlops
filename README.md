@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Yash Deo.</h1>
-<h3 align="center">🤖 AI/ML Engineer | Learning • Building • Deploying ML systems 🚀
+<h3 align="center">🤖 AI-ML Engineer | Learning • Building • Deploying ML systems 🚀
 </h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="430"/>
 
