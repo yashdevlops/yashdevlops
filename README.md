@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Yash Deo.</h1>
 <h3 align="center">A passionate Cloud Engineer || DevOps Engineer ||</h3>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="430"/>
 
 Email Me 👉 ✉️ **yashdeo01@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
