@@ -5,7 +5,7 @@
 
 Email Me 👉 ✉️ **yashdeo01@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **Currently working on:** ARTI — an AI/ML-driven system focused on intelligent automation and real-world problem solving  
+- 🔭 **Currently working on:** INTELLECTA — an AI/ML-driven system focused on intelligent automation and real-world problem solving  
 - 🌱 **Currently exploring:** Advanced machine learning techniques, model optimization, and production-ready AI systems  
 - 👯 **Open to collaborate on:** Applied AI/ML projects, automation tools, and scalable intelligent applications  
 - 🤔 **Looking for help with:** System design, performance optimization, and deploying AI models at scale  
