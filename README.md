@@ -5,12 +5,12 @@
 
 Email Me 👉 ✉️ **yashdeo01@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 🔭 **Currently working on:** ARTI — an AI/ML-driven system focused on intelligent automation and real-world problem solving  
+- 🌱 **Currently exploring:** Advanced machine learning techniques, model optimization, and production-ready AI systems  
+- 👯 **Open to collaborate on:** Applied AI/ML projects, automation tools, and scalable intelligent applications  
+- 🤔 **Looking for help with:** System design, performance optimization, and deploying AI models at scale  
+- 💬 **Ask me about:** Artificial Intelligence, Machine Learning, Python, and building real-world AI solutions  
+- 📫 **How to reach me:** yashdeo01@gmail.com
 - 😄 **Pronouns:** Yash....
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
