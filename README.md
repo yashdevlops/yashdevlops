@@ -1,26 +1,71 @@
 <h1 align="center">Hi 👋, I am Yash Deo.</h1>
 <h3 align="center">🤖 AI-ML Engineer | Learning • Building • Deploying ML systems 🚀
 </h3>
-<img align="left" alt="GIF" <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" alt="yashdevlops Banner" />
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="430">
-</p>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" />
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="430" />
+    </td>
+  </tr>
+</table>
 
 
-Email Me 👉 ✉️ **yashdeo01@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **Currently working on:** INTELLECTA — an AI/ML-driven system focused on intelligent automation and real-world problem solving  
-- 🌱 **Currently exploring:** Advanced machine learning techniques, model optimization, and production-ready AI systems  
-- 👯 **Open to collaborate on:** Applied AI/ML projects, automation tools, and scalable intelligent applications  
-- 🤔 **Looking for help with:** System design, performance optimization, and deploying AI models at scale  
-- 💬 **Ask me about:** Artificial Intelligence, Machine Learning, Python, and building real-world AI solutions  
-- 📫 **How to reach me:** yashdeo01@gmail.com
-- 😄 **Pronouns:** Yash....
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
+<p align=<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Yash;I'm+an+AI+/+ML+Engineer;I+build+intelligent+systems;Turning+data+into+insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Yash;AI%2FML+Developer+🚀;Learning+and+Solving+Problems;Turning+data+into+insights;Love+Tech+%E2%9D%A4%EF%B8%8F" />
 </p>
+
+<!-- Header -->
+<h2 align="center">📬 Let's Connect</h2>
+
+<!-- Badges -->
+<p align="center">
+  <a href="mailto:yashdeo01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yashdeo01%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-blue?style=for-the-badge&logo=python">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Focus-DevOps-green?style=for-the-badge&logo=docker">
+  </a>
+</p>
+
+---
+
+<!-- About Section -->
+<ul style="font-family: 'Poppins', sans-serif; line-height: 1.8; font-size: 16px;">
+
+<li>🔭 <b>Currently working on:</b> <b>INTELLECTA</b> — an AI/ML-driven system focused on intelligent automation and real-world problem solving</li>
+
+<li>🌱 <b>Currently exploring:</b> Advanced machine learning techniques, model optimization, and production-ready AI systems</li>
+
+<li>👯 <b>Open to collaborate on:</b> Applied AI/ML projects, automation tools, and scalable intelligent applications</li>
+
+<li>🤔 <b>Looking for help with:</b> System design, performance optimization, and deploying AI models at scale</li>
+
+<li>💬 <b>Ask me about:</b> Artificial Intelligence, Machine Learning, Python, and building real-world AI solutions</li>
+
+<li>📫 <b>How to reach me:</b> <a href="mailto:yashdeo01@gmail.com">yashdeo01@gmail.com</a></li>
+
+<li>😄 <b>Pronouns:</b> Yash</li>
+
+<li>⚡ <b>Fun fact:</b> I love Tech and Tech loves me 😎🔥</li>
+
+</ul>
+
+---
+
+<!-- Footer Quote -->
+<p align="center">
+  <i>"Code. Build. Scale. Repeat."</i> 🚀
+  
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="600">
 </p>
