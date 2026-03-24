@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Yash Deo.</h1>
 <h3 align="center">🤖 AI-ML Engineer | Learning • Building • Deploying ML systems 🚀
 </h3>
-<img align="left" alt="GIF" <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="550" alt="yashdevlops Banner" />
+<img align="left" alt="GIF" <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" alt="yashdevlops Banner" />
 <p align="right">
   <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="430">
 </p>
