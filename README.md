@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I am Yash Deo.</h1>
 <h3 align="center">🤖 AI-ML Engineer | Learning • Building • Deploying ML systems 🚀
 </h3>
-<img align="right" alt="GIF" <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="530" alt="yashdevlops Banner" />
+<img align="left" alt="GIF" <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="550" alt="yashdevlops Banner" />
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="430">
+</p>
+
 
 Email Me 👉 ✉️ **yashdeo01@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -16,6 +20,9 @@ Email Me 👉 ✉️ **yashdeo01@gmail.com** For Collaboration/Project or Anythi
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Yash;I'm+an+AI+/+ML+Engineer;I+build+intelligent+systems;Turning+data+into+insights" />
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="600">
 </p>
 
 ## 🏆 GitHub Trophies
@@ -51,6 +58,9 @@ Email Me 👉 ✉️ **yashdeo01@gmail.com** For Collaboration/Project or Anythi
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="400">
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yashuu135&limit=5&theme=dark&combine_all_yearly_contributions=true)
