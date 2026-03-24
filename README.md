@@ -59,6 +59,5 @@ Email Me 👉 ✉️ **yashdeo01@gmail.com** For Collaboration/Project or Anythi
 <p align="center">
   <img src= "(https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif)" width="100%" alt="Developer Aesthetic">
 </p>
-(https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
