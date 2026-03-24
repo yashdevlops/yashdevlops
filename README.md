@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Yash Deo.</h1>
 <h3 align="center">🤖 AI-ML Engineer | Learning • Building • Deploying ML systems 🚀
 </h3>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="430"/>
+<img align="right" alt="GIF" <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="630" alt="yashdevlops Banner" />
 
 Email Me 👉 ✉️ **yashdeo01@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -13,6 +13,10 @@ Email Me 👉 ✉️ **yashdeo01@gmail.com** For Collaboration/Project or Anythi
 - 📫 **How to reach me:** yashdeo01@gmail.com
 - 😄 **Pronouns:** Yash....
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Yash;I'm+an+AI+/+ML+Engineer;I+build+intelligent+systems;Turning+data+into+insights" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashuu135&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -39,10 +43,10 @@ Email Me 👉 ✉️ **yashdeo01@gmail.com** For Collaboration/Project or Anythi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdevlops&layout=compact&theme=radical&hide_border=true" alt="yashdevlops Top Languages" height="170" />
 </p>
 
-### 🛠️ Tech Stack & Tools
+### 🤖 AI/ML Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,mongodb,docker,github,vscode,linux,aws" />
-</p>  
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,pandas,mongodb,aws,docker,github" />
+</p>
 
 
 ### ✍️ Random Dev Quote
@@ -56,8 +60,6 @@ Email Me 👉 ✉️ **yashdeo01@gmail.com** For Collaboration/Project or Anythi
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yashdevlops&color=blueviolet)
 
-<p align="center">
-  <img src= "(https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif)" width="100%" alt="Developer Aesthetic">
-</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
